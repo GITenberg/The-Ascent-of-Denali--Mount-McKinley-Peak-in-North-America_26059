@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25611
     wikipedia: http://en.wikipedia.org/wiki/Hudson_Stuck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26059#The-Ascent-of-Denali--Mount-McKinley-Peak-in-North-America
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2008-07-15'
 gutenberg_type: Text
